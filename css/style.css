@@ -183,6 +183,8 @@ nav .container {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+            justify-content: center;
+            transform-box: content-box;
     /* Cambio a una disposición horizontal en pantallas más pequeñas */
   }
 }
