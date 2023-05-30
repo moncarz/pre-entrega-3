@@ -8,9 +8,16 @@ nav {
 
 body {
     background-color: rgb(204, 68, 68);
-
+    width: 100%;
 }
 
+img {
+    margin-bottom: 20px;
+}
+
+.texto {
+    padding: 0 20px;
+}
 
 ul {
     display: flex;
