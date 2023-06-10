@@ -74,7 +74,7 @@ a {
 }
 
 .card button {
-    background-color: #ff0000;
+    background-color: #9539ff;
     color: #ff1616;
     border: none;
     border-radius: 5px;
@@ -84,7 +84,7 @@ a {
 }
 
 .card button:hover {
-    background-color: #ff0808;
+    background-color: hsl(0, 89%, 71%);
 }
 
 .logo-de-river {
