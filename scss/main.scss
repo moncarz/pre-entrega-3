@@ -195,5 +195,16 @@ footer {
     text-align: center;
 
 
+    .container {
+        width: 100%;
+
+        .header {
+            background-color: #000;
+            color: #fff;
+        }
+
+        .content {
+            padding: 20px;
+        }
 
 }

@@ -178,7 +178,7 @@ nav {
 
     @media (max-width: 768px) {
         flex-direction: column;
-            /* Cambio a una disposición horizontal en pantallas más pequeñas */
+        /* Cambio a una disposición horizontal en pantallas más pequeñas */
     }
 }
 
@@ -194,6 +194,18 @@ footer {
     width: 100%;
     text-align: center;
 
+    .container {
+        width: 100%;
+
+        .header {
+            background-color: #000;
+            color: #fff;
+        }
+
+        .content {
+            padding: 20px;
+        }
+    }
 
 
 }
