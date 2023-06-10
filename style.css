@@ -206,26 +206,7 @@ footer {
             padding: 20px;
         }
 
-        @mixin button-styles {
-            padding: 10px 20px;
-    
+    }
 
-        .button {
-            @include button-styles;
-        }
 
-        .submit-button {
-            @include button-styles;
-            background-color: #00f;
-        }
-
-        @import 'variables';
-
-        .button {
-            background-color: $primary-color;
-        }
-
-        .link {
-            color: $secondary-color;
-        }
 }
